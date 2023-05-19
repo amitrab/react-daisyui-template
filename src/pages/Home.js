@@ -7,6 +7,7 @@ export default function Home() {
     <Typography>
       <h1>Home Page</h1>
       <p>
+        Yes!
         Hello, world! This is a simple example of a React app. This app is based
         on the create-react-app template, and it is intended to be used as a
         starting point for new React projects.
